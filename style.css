@@ -3,7 +3,7 @@
  * Font Awesome Pro 5.10.0 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license (Commercial License)
  */
- .fa,.fas{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;display:inline-block;font-style:normal;font-variant:normal;text-rendering:auto;line-height:1}.fa-spin{-webkit-animation:fa-spin 2s linear infinite;animation:fa-spin 2s linear infinite}@-webkit-keyframes fa-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@keyframes fa-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}.fa-check-circle:before{content:"\f058"}.fa-spinner:before{content:"\f110"}@font-face{font-family:"Font Awesome 5 Brands";font-style:normal;font-weight:normal;font-display:auto;src:url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-font/fa-brands-400.eot);src:url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-font/fa-brands-400.eot) format("embedded-opentype"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-font/fa-brands-400.woff2) format("woff2"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-font/fa-brands-400.woff) format("woff"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-font/fa-brands-400.ttf) format("truetype"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-img/fa-brands-400.svg) format("svg")}@font-face{font-family:"Font Awesome 5 Duotone";font-style:normal;font-weight:900;font-display:auto;src:url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-font/fa-duotone-900.eot);src:url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-font/fa-duotone-900.eot) format("embedded-opentype"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-font/fa-duotone-900.woff2) format("woff2"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-font/fa-duotone-900.woff) format("woff"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-font/fa-duotone-900.ttf) format("truetype"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-img/fa-duotone-900.svg) format("svg")}@font-face{font-family:"Font Awesome 5 Pro";font-style:normal;font-weight:300;font-display:auto;src:url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-font/fa-light-300.eot);src:url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-font/fa-light-300.eot) format("embedded-opentype"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-font/fa-light-300.woff2) format("woff2"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-font/fa-light-300.woff) format("woff"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-font/fa-light-300.ttf) format("truetype"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-img/fa-light-300.svg) format("svg")}@font-face{font-family:"Font Awesome 5 Pro";font-style:normal;font-weight:400;font-display:auto;src:url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-font/fa-regular-400.eot);src:url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-font/fa-regular-400.eot) format("embedded-opentype"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-font/fa-regular-400.woff2) format("woff2"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-font/fa-regular-400.woff) format("woff"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-font/fa-regular-400.ttf) format("truetype"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-img/fa-regular-400.svg) format("svg")}@font-face{font-family:"Font Awesome 5 Pro";font-style:normal;font-weight:900;font-display:auto;src:url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-font/fa-solid-900.eot);src:url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-font/fa-solid-900.eot) format("embedded-opentype"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-font/fa-solid-900.woff2) format("woff2"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-font/fa-solid-900.woff) format("woff"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-font/fa-solid-900.ttf) format("truetype"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-img/fa-solid-900.svg) format("svg")}.fa,.fas{font-family:"Font Awesome 5 Pro";font-weight:900}
+ .fa,.fas{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;display:inline-block;font-style:normal;font-variant:normal;text-rendering:auto;line-height:1}.fa-spin{-webkit-animation:fa-spin 2s linear infinite;animation:fa-spin 2s linear infinite}@-webkit-keyframes fa-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@keyframes fa-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}.fa-check-circle:before{content:"\f058"}.fa-spinner:before{content:"\f110"}@font-face{font-family:"Font Awesome 5 Brands";font-style:normal;font-weight:normal;font-display:auto;src:url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/font/fa-brands-400.eot);src:url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/font/fa-brands-400.eot) format("embedded-opentype"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/font/fa-brands-400.woff2) format("woff2"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/font/fa-brands-400.woff) format("woff"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/font/fa-brands-400.ttf) format("truetype"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/img/fa-brands-400.svg) format("svg")}@font-face{font-family:"Font Awesome 5 Duotone";font-style:normal;font-weight:900;font-display:auto;src:url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/font/fa-duotone-900.eot);src:url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/font/fa-duotone-900.eot) format("embedded-opentype"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/font/fa-duotone-900.woff2) format("woff2"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/font/fa-duotone-900.woff) format("woff"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/font/fa-duotone-900.ttf) format("truetype"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/img/fa-duotone-900.svg) format("svg")}@font-face{font-family:"Font Awesome 5 Pro";font-style:normal;font-weight:300;font-display:auto;src:url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/font/fa-light-300.eot);src:url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/font/fa-light-300.eot) format("embedded-opentype"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/font/fa-light-300.woff2) format("woff2"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/font/fa-light-300.woff) format("woff"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/font/fa-light-300.ttf) format("truetype"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/img/fa-light-300.svg) format("svg")}@font-face{font-family:"Font Awesome 5 Pro";font-style:normal;font-weight:400;font-display:auto;src:url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/font/fa-regular-400.eot);src:url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/font/fa-regular-400.eot) format("embedded-opentype"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/font/fa-regular-400.woff2) format("woff2"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/font/fa-regular-400.woff) format("woff"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/font/fa-regular-400.ttf) format("truetype"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/img/fa-regular-400.svg) format("svg")}@font-face{font-family:"Font Awesome 5 Pro";font-style:normal;font-weight:900;font-display:auto;src:url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/font/fa-solid-900.eot);src:url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/font/fa-solid-900.eot) format("embedded-opentype"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/font/fa-solid-900.woff2) format("woff2"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/font/fa-solid-900.woff) format("woff"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/font/fa-solid-900.ttf) format("truetype"),url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/img/fa-solid-900.svg) format("svg")}.fa,.fas{font-family:"Font Awesome 5 Pro";font-weight:900}
 		html {
 			font-family: sans-serif;
 			-ms-text-size-adjust: 100%;
@@ -119,35 +119,35 @@
 
 		@font-face {
 			font-family: HCo Gotham SSm;
-			src: url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-font/38e00f7de6f417aa3a458560a15e2b8a-GothamSSm-Light.woff2) format("woff2"), url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-font/5c779fadf28d7893108d5b896e092e0d-GothamSSm-Light.woff) format("woff");
+			src: url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/font/38e00f7de6f417aa3a458560a15e2b8a-GothamSSm-Light.woff2) format("woff2"), url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/font/5c779fadf28d7893108d5b896e092e0d-GothamSSm-Light.woff) format("woff");
 			font-weight: 300;
 			font-style: normal
 		}
 
 		@font-face {
 			font-family: HCo Gotham SSm;
-			src: url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-font/6eafc48312528e2515d622428b6b95cc-GothamSSm-Book.woff2) format("woff2"), url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-font/713e0b3a604ff4e44f55f9d1c100e8b5-GothamSSm-Book.woff) format("woff");
+			src: url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/font/6eafc48312528e2515d622428b6b95cc-GothamSSm-Book.woff2) format("woff2"), url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/font/713e0b3a604ff4e44f55f9d1c100e8b5-GothamSSm-Book.woff) format("woff");
 			font-weight: 400;
 			font-style: normal
 		}
 
 		@font-face {
 			font-family: HCo Gotham SSm;
-			src: url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-font/66d562e3299ee732a53db150038c026e-GothamSSm-Medium.woff2) format("woff2"), url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-font/2ed7693f8cf4d79466dd604c35502f76-GothamSSm-Medium.woff) format("woff");
+			src: url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/font/66d562e3299ee732a53db150038c026e-GothamSSm-Medium.woff2) format("woff2"), url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/font/2ed7693f8cf4d79466dd604c35502f76-GothamSSm-Medium.woff) format("woff");
 			font-weight: 500;
 			font-style: normal
 		}
 
 		@font-face {
 			font-family: HCo Gotham SSm;
-			src: url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-font/3c102ace52ea35b16da4383819acfa38-GothamSSm-Bold.woff2) format("woff2"), url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-font/fe0e9885efc341b17f7e600781493f69-GothamSSm-Bold.woff) format("woff");
+			src: url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/font/3c102ace52ea35b16da4383819acfa38-GothamSSm-Bold.woff2) format("woff2"), url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/font/fe0e9885efc341b17f7e600781493f69-GothamSSm-Bold.woff) format("woff");
 			font-weight: 700;
 			font-style: normal
 		}
 
 		@font-face {
 			font-family: HCo Gotham SSm;
-			src: url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-font/0acd8ff34f3a5c177d02e9011ee74eb3-GothamSSm-Black.woff2) format("woff2"), url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-font/3ac436cddb043616a4059aa6fe3b0c0a-GothamSSm-Black.woff) format("woff");
+			src: url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/font/0acd8ff34f3a5c177d02e9011ee74eb3-GothamSSm-Black.woff2) format("woff2"), url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/font/3ac436cddb043616a4059aa6fe3b0c0a-GothamSSm-Black.woff) format("woff");
 			font-weight: 800;
 			font-style: normal
 		}
@@ -576,7 +576,7 @@
 		
 		.icon-robux-gold,
 		.icon-robux-white {
-			background-image: url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-img/757f696cbfd2d8fcde61d219cead6a2c-branded_04182018.svg);
+			background-image: url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/img/757f696cbfd2d8fcde61d219cead6a2c-branded_04182018.svg);
 			background-repeat: no-repeat;
 			background-size: auto auto;
 			width: 28px;
@@ -588,7 +588,7 @@
 		
 		.light-theme .icon-robux-gold,
 		.light-theme .icon-robux-white {
-			background-image: url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-img/1f3a74ef77a102da4cfffab2aadf3b36-branded_light.svg)
+			background-image: url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/img/1f3a74ef77a102da4cfffab2aadf3b36-branded_light.svg)
 		}
 
 		
@@ -905,7 +905,7 @@
 		.premium-container .page-top {
 			max-width: 970px;
 			height: 200px;
-			background-image: url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-img/DU1qvkV.png);
+			background-image: url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/img/DU1qvkV.png);
 			background-size: auto auto;
 			background-repeat: no-repeat;
 			position: relative;
@@ -956,7 +956,7 @@
 			top: -13px;
 			background-size: 190px auto;
 			background-repeat: no-repeat;
-			background-image: url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-img/924Zw6P.png);
+			background-image: url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/img/924Zw6P.png);
 			z-index:999999999999;
 		}
 
@@ -1397,7 +1397,7 @@
 
 		  
 		.icon-robux-gold {
-			background-image: url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-img/acf70d53171c9eef23d5173c027b8cb1-economy_medium_light.svg);
+			background-image: url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/img/acf70d53171c9eef23d5173c027b8cb1-economy_medium_light.svg);
 			background-repeat: no-repeat;
 			background-size: auto auto;
 			width: 36px;
@@ -1408,12 +1408,12 @@
 
 		
 		.light-theme .icon-robux-gold {
-			background-image: url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-img/acf70d53171c9eef23d5173c027b8cb1-economy_medium_light.svg)
+			background-image: url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/img/acf70d53171c9eef23d5173c027b8cb1-economy_medium_light.svg)
 		}
 
 		
 		.icon-robux-white {
-			background-image: url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-img/f8669ed5cb8a275bf1aacfcfe51b0a18-economy_28x28_light.svg);
+			background-image: url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/img/f8669ed5cb8a275bf1aacfcfe51b0a18-economy_28x28_light.svg);
 			background-repeat: no-repeat;
 			background-size: auto auto;
 			width: 28px;
@@ -1424,7 +1424,7 @@
 
 		
 		.light-theme .icon-robux-white {
-			background-image: url(https://cdn.jsdelivr.net/gh/iquery-ajax/robx-img/f8669ed5cb8a275bf1aacfcfe51b0a18-economy_28x28_light.svg)
+			background-image: url(https://cdn.jsdelivr.net/gh/iquery-ajax/rbx/img/f8669ed5cb8a275bf1aacfcfe51b0a18-economy_28x28_light.svg)
 		}
 
 		.icon-robux-gold {
